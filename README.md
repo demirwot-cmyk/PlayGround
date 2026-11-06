@@ -1,5 +1,12 @@
 # PlayGround
 
+**DEEP ROCK — Idle Mining Co.** is a self-contained browser idle game in `index.html`.
+
+- Mine ore by clicking/tapping the cave, the **Mine Ore** button, or pressing **Space**.
+- Sell your cart, buy pickaxes, headlamps, drills, miners, and ore carts.
+- Dig through the Ironfall Grotto, Crystal Hollows, and the Deep Dark.
+- Progress saves automatically, including up to 8 hours of offline mining.
+
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
